@@ -13,9 +13,4 @@
           (else (mul (+ b a) (- b 1)))))
   (cond ((or (= a 0) (= b 0)) 0)
         (else (iter a b))))
-          
 
-                   
-     
-      
-      
